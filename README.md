@@ -7,11 +7,11 @@ This project aims at analysing the performances of the football clubs in the Eng
 The data for this project was obtained from this website: https://www.football-data.co.uk/data.php
 The dataset consists of the following attributes:
 
-|Column|Data Type|
-|------|---------|
-|Team  |string   |
-|Div   | 
-|Date  |
+|Column|
+|------|
+|Team  
+|Div    
+|Date  
 |HomeTeam
 |AwayTeam
 |FTHG
