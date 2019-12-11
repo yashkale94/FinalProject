@@ -87,6 +87,7 @@ For the various questions mentioned in the Jupyter notebook, I used the csv file
 1. CardsDistribution.jpeg: Shows the distribution of cards earned across teams in the league.
 2. MonthlySeason.jpeg: Shows teams' positions on a monthly basis.
 3. OverallSeason.jpeg: Shows the teams' progression throughout the season by adding the results with each passing month.
+4. season-1819_csv.csv: The main file used for the analysis.
 
 ## FINDINGS:
 We found that
