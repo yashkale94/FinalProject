@@ -8,8 +8,7 @@ The data for this project was obtained from this website: https://www.football-d
 The dataset consists of the following attributes:
 
 |Column|
-|------|
-|Team  
+|------| 
 |Div    
 |Date  
 |HomeTeam
@@ -72,3 +71,17 @@ The dataset consists of the following attributes:
 |PSCH
 |PSCD
 |PSCA
+
+We use only the first 23 columns for our analysis. The remaining columns are discarded for now.
+The decsription of each column is provided here: https://www.football-data.co.uk/notes.txt
+
+## LICENSES OF THE DATASET
+The licenses of the dataset are not mentioned under any 'License' page or term on the dataset webpage, but explitcitly mentioned as:
+*"You are free experiment with the data yourselves"* and *"Like all of Football-Data's files, it free to download."*
+It can be found on this page: https://www.football-data.co.uk/englandm.php
+
+## STUDY
+For the various questions mentioned in the Jupyter notebook, I used the csv file provided in this repo. The analysis is focused on the the top6 clubs in the league and 1-2 questions about the league in general. I have tried to analyse how the top6 clubs match up against each other, when compared to the lower ranked teams in England. The three plots that are embedded in this repo are generated to show how the performances of clubs changed in the league through out the season. I also filtered on the dates column in the csv, to see the performance of clubs in the famous 'festive season' of the Premier League, which is notorious to cause injuries to players of different clubs.
+
+## FILES EMBEDDED:
+1. 
