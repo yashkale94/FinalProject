@@ -84,4 +84,15 @@ It can be found on this page: https://www.football-data.co.uk/englandm.php
 For the various questions mentioned in the Jupyter notebook, I used the csv file provided in this repo. The analysis is focused on the the top6 clubs in the league and 1-2 questions about the league in general. I have tried to analyse how the top6 clubs match up against each other, when compared to the lower ranked teams in England. The three plots that are embedded in this repo are generated to show how the performances of clubs changed in the league through out the season. I also filtered on the dates column in the csv, to see the performance of clubs in the famous 'festive season' of the Premier League, which is notorious to cause injuries to players of different clubs.
 
 ## FILES EMBEDDED:
-1. 
+1. CardsDistribution.jpeg: Shows the distribution of cards earned across teams in the league.
+2. MonthlySeason.jpeg: Shows teams' positions on a monthly basis.
+3. OverallSeason.jpeg: Shows the teams' progression throughout the season by adding the results with each passing month.
+
+## FINDINGS:
+We found that
+1. The higher a team finishes in the league table, lower is the number of cards earned.
+2. Clubs like Arsenal and Chelsea fared decently against the rest of the top 6 clubs, but clubs like Man United and Tottenham were extremely poor.
+3. We see that clubs like Liverpool and Man Ciry hardly changed their positions through out the season, where as clubs like Brighton and Wolves showed erratic changes in their performances.
+4. Wolves showed a great points tally against the top 6 clubs.
+
+LINK TO THE COURSE: https://wiki.communitydata.science/Human_Centered_Data_Science_(Fall_2019)
